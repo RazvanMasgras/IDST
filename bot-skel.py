@@ -1,7 +1,4 @@
-
-    
-
-    #!./.venv/bin/python
+#!./.venv/bin/python
 
 import discord      # base discord module
 import code         # code.interact
@@ -109,3 +106,5 @@ if __name__ == '__main__':
 
     # launch bot (blocking operation)
     bot.run(os.environ['BOT_TOKEN'])
+    
+################################### EDITAT ######################################
